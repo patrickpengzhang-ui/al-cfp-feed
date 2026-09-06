@@ -1,0 +1,20 @@
+name: Build Applied Linguistics CFP feed
+on:
+  schedule:
+    - cron: "0 7 * * *"   # daily at 07:00 UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir -p docs && python3 al_cfp_feed.py --out docs/al_cfp.xml
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/al_cfp.xml
+          git diff --quiet --cached || git commit -m "Update feed"
+          git push
