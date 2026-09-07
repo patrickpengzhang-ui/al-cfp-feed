@@ -3,10 +3,10 @@
   <channel>
     <title>Applied Linguistics — Calls for Papers &amp; Conferences</title>
     <link>https://linguistlist.org/</link>
-    <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, pulled from LINGUIST List and other sources.</description>
+    <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:29:54 +0000</lastBuildDate>
-    <generator>al_cfp_feed.py</generator>
+    <lastBuildDate>Mon, 07 Sep 2026 02:53:20 +0000</lastBuildDate>
+    <generator>al_cfp_crawler.py</generator>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: 4th Workshop on Spoken Corpus Linguistics</title>
       <link>https://linguistlist.org/issues/37/2825/</link>
@@ -76,6 +76,12 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/2503/</guid>
       <pubDate>Tue, 28 Jul 2026 05:05:02 -0400</pubDate>
       <description>Focus on ELT Journal is now accepting original articles and book reviews for our regular issue to appear in December 2026 (Vol 8; Issue 2) &amp; June 2027 (Vol 9; Issue 1). We welcome submissions dealing with issues about English Language Teaching and Learning for our next issues. The scope of the journal includes, but not limited to, the following subjects: teaching English as a foreign or second language, English language teacher training and education; theory and practice in English language</description>
+    </item>
+    <item>
+      <title>[WikiCFP — Linguistics] NLP4CALL 2026</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</link>
+      <guid isPermaLink="false">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</guid>
+      <description>NLP4CALL 2026 | workshop on Natural Language Processing for Computer-Assisted Language Learning</description>
     </item>
   </channel>
 </rss>
