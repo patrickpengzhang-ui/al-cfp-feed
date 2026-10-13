@@ -5,8 +5,15 @@
     <link>https://linguistlist.org/</link>
     <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:31:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:48:51 +0000</lastBuildDate>
     <generator>al_cfp_crawler.py</generator>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: SilkRoadNLP 2027: Advancing NLP for the Iranian Language Family</title>
+      <link>https://linguistlist.org/issues/37/3281/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3281/</guid>
+      <pubDate>Tue, 13 Oct 2026 06:05:01 -0400</pubDate>
+      <description>Overview: SilkRoadNLP 2027 provides a platform for advancing Natural Language Processing (NLP), computational linguistics, and AI for the Iranian linguistic family—a diverse group of languages spoken across Iran, Afghanistan, Central and South Asia, and the Caucasus, as well as diaspora communities worldwide. We welcome work that bridges computational methods with linguistic, social, and cultural perspectives. Despite major advances in multilingual NLP and large language models, the langua</description>
+    </item>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: AI versus Multilinguality – Conversations Concerning Diverse Communities and the Future of Language-Specific Work</title>
       <link>https://linguistlist.org/issues/37/3261/</link>
@@ -19,7 +26,7 @@
       <link>https://linguistlist.org/issues/37/3246/</link>
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3246/</guid>
       <pubDate>Fri, 09 Oct 2026 07:05:02 -0400</pubDate>
-      <description>We are pleased to announce that the tentative program for J-SLA Autumn Conference 2026 is available now. Please take a look at the following website: https://en.j-sla.org/events/jsla-autumn-2026 Please note that the full program is scheduled to be released in a few days. Thank you for your patience. J-SLA Autumn Conference 2026 will be held on Saturday, October 24, 2026 in the following formats depending on the session type: 1. Student Oral Presentations (On-site only) 2. Poster Pre</description>
+      <description>We are pleased to announce that the full program for J-SLA Autumn Conference 2026 is available now. Please take a look at the following website: https://en.j-sla.org/events/jsla-autumn-2026 J-SLA Autumn Conference 2026 will be held on Saturday, October 24, 2026 in the following formats depending on the session type: 1. Student Oral Presentations (On-site only) 2. Poster Presentations (On-site only) 3. General Meeting (Hybrid: On-site and Online) The conference dinner will be held a</description>
     </item>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: 2027 Asia Pacific Association of Language, Culture, and Education (APALCE), Korea Association of Secondary English Education (KASEE), and Korea TESOL Joint Winter Seminar</title>
@@ -27,34 +34,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3245/</guid>
       <pubDate>Fri, 09 Oct 2026 06:05:02 -0400</pubDate>
       <description>2027 Asia Pacific Association of Language, Culture, and Education (APALCE), Korea Association of Secondary English Education (KASEE), and Korea TESOL Joint Winter Seminar Language, Culture, and Education in the Age of AI The Asia Pacific Association of Language, Culture, and Education (APALCE), Korea Association of Secondary English Education (KASEE), and Korea TESOL will jointly host their 2027 Winter Seminar as detailed below. We invite presentation proposals and look forward to your par</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: Doing Multilingualism with Generative AI: Recentering the Users</title>
-      <link>https://linguistlist.org/issues/37/3237/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3237/</guid>
-      <pubDate>Thu, 08 Oct 2026 09:05:02 -0400</pubDate>
-      <description>Most research on AI and language tests what the model produces. This workshop asks what multilingual speakers do with it. Generative AI answers in dozens of languages, yet it organises them like a drop-down menu: one language at a time, each treated as uniform. Multilingual speakers move across languages, varieties and registers. What happens when the two meet? The workshop brings together empirical work from sociolinguistics, linguistic anthropology, discourse studies and related fields on w</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: Teaching the Future: Artificial Intelligence Meets Language for Specific Purposes</title>
-      <link>https://linguistlist.org/issues/37/3236/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3236/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:05:02 -0400</pubDate>
-      <description>We invite abstracts for short papers, posters, teaching demos and round tables on AI in LSP teaching and research. Deadline: 15 January, 2027 Length: max. 500 words Submit to: ailem.conference@ferit.hr Notification of acceptance: 31 January, 2027 Your submission should include a title, the contribution format, your preferred participation mode (in-person or online), author names and affiliations, the thematic area and 3-5 keywords. Please use the abstract template and follow the full gu</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: Advances in Sociotonetics: Suprasegmental Variation in Tonal Languages</title>
-      <link>https://linguistlist.org/issues/37/3235/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3235/</guid>
-      <pubDate>Thu, 08 Oct 2026 08:05:02 -0400</pubDate>
-      <description>Sociotonetics is a young field at the intersection of tone phonetics and variationist sociolinguistics (Stanford 2008, Stanford &amp; Yang 2023, and references therein). It explores suprasegmental variation in tonal languages, i.e. languages employing pitch distinctions for lexical and grammatical contrasts. Sociotonetic studies investigate both language-internal variation and contact-induced variation, as many tonal languages are spoken in multilingual environments. This is the first workshop</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: 18th Annual Meeting of Illinois Language and Linguistics Society</title>
-      <link>https://linguistlist.org/issues/37/3232/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3232/</guid>
-      <pubDate>Thu, 08 Oct 2026 07:05:02 -0400</pubDate>
-      <description>We are pleased to announce the Call for Papers for the 18th Annual Meeting of Illinois Language and Linguistics Society (ILLS 18th), to be held at the Linguistics Department at University of Illinois Urbana-Champaign, US, on 26-27 March 2027. This year’s conference theme is “Language Variation in Time, Space, and Society.” ILLS is an annual student-led conference in the Linguistics department at University of Illinois Urbana-Champaign. Abstracts from any linguistic subfields are welcome. Stud</description>
     </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Logos et Littera – Journal of Interdisciplinary Approaches to Text - &quot;Issue 14&quot; (Jrnl)</title>
