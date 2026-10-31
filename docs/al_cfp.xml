@@ -5,8 +5,15 @@
     <link>https://linguistlist.org/</link>
     <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:20:38 +0000</lastBuildDate>
     <generator>al_cfp_crawler.py</generator>
+    <item>
+      <title>[LINGUIST List — Calls for Papers] Calls: Data - &quot;Special Issue: Natural Language Processing in the Era of Big Data&quot; (Jrnl)</title>
+      <link>https://linguistlist.org/issues/37/3573/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3573/</guid>
+      <pubDate>Fri, 30 Oct 2026 11:05:01 -0400</pubDate>
+      <description>Guest Editors: Dr. Mingyu Wan and Prof. Dr. Chu Ren Huang Special Issue website and submit: https://www.mdpi.com/journal/data/special_issues/EL33J55Y9Z Current publications: 7 Indicative topics include, but are not limited to: (1) data quality, curation and annotation for NLP; (2) corpus linguistics and data‑driven language analysis; (3) representation learning and large language models with linguistic grounding; (4) cognition‑, perception‑ and embodiment‑aware NLP; (5) linked</description>
+    </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Interpretation and Discourse Analysis Journal - &quot;Volume 8 Issue 1&quot; (Jrnl)</title>
       <link>https://linguistlist.org/issues/37/3563/</link>
@@ -41,13 +48,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3516/</guid>
       <pubDate>Mon, 26 Oct 2026 11:05:01 -0400</pubDate>
       <description>TESL Canada Journal Call For Papers: Special Issue Spring 2028 Guest Editors: Heike Neumann (Concordia University) Carol Johnson (Université du Québec à Montréal) Rethinking Evidence of Language Learning: Emerging Perspectives on Assessment Assessment is fundamentally concerned with the collection and interpretation of evidence to support claims about language learning and proficiency. As language use, learning environments, and assessment practices continue to evolve, long-standin</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: Formulaic Language and Construction Grammar</title>
-      <link>https://linguistlist.org/issues/37/3507/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3507/</guid>
-      <pubDate>Mon, 26 Oct 2026 08:05:02 -0400</pubDate>
-      <description>We are happy to announce the international conference Formulaic Language and Construction Grammar: Applications in Translation, Lexicography, and Foreign Language Teaching. Organized in the framework of the research project COST-Action 22115 A Multilingual Repository of Phraseme Constructions in Central and Eastern European Languages (PhraConRep), this conference aims to create a space for dialogue and scientific exchange on formulaic language in general, and in particular on “phraseme construct</description>
     </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Revista da Abralin - &quot;Thematic Dossier: Discourse Analysis and GAI: New Materialities, Power Plays and Social Emancipation&quot; (Jrnl)</title>
