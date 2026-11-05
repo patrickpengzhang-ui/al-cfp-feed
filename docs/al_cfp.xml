@@ -5,8 +5,15 @@
     <link>https://linguistlist.org/</link>
     <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:12:02 +0000</lastBuildDate>
     <generator>al_cfp_crawler.py</generator>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: 9th Second-Language Learning and Disabilities International Conference</title>
+      <link>https://linguistlist.org/issues/37/3647/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3647/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:05:02 -0500</pubDate>
+      <description>Join us for the 9th Second-Language Learning and Disabilities Conference, an online event dedicated to promoting inclusion and diversity in world language education. This year&#x27;s conference invites educators, researchers, and practitioners to explore how we can create learning environments that recognize learner variability, challenge ableism and other forms of exclusion, and support meaningful participation for all students. We welcome proposals that share innovative pedagogical approaches,</description>
+    </item>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: 5th Gibraltar International Conference</title>
       <link>https://linguistlist.org/issues/37/3630/</link>
@@ -27,13 +34,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3583/</guid>
       <pubDate>Mon, 02 Nov 2026 06:05:02 -0500</pubDate>
       <description>Conference Description: The Olomouc Linguistics Colloquium (OLINCO) is a biennial general linguistics conference held at Palacký University Olomouc, Czech Republic. It covers synchronic or diachronic aspects of grammar, phonology, semantics, and pragmatics, among other areas. Papers may also address language description, language acquisition, performance, translation, or language deficits. Call for Papers: The general topic of the conference is language use and linguistic structure. We welc</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: 10th TESOL/Applied Linguistics/Foreign Languages (TALFL) Conference</title>
-      <link>https://linguistlist.org/issues/37/3580/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3580/</guid>
-      <pubDate>Mon, 02 Nov 2026 05:05:03 -0500</pubDate>
-      <description>For this edition of TALFL the conference planning committee has chosen a deliberately broad theme. The issues worthy of discussion with regards to language education are plentiful and may include topics related to challenges inside and outside of the classroom. Thus, we encourage presentations examining a wide range of areas including (but not limited to) teaching methodology, technological innovations, language policies, assessment, materials development, language acquisition, and the promotion</description>
     </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Data - &quot;Special Issue: Natural Language Processing in the Era of Big Data&quot; (Jrnl)</title>
@@ -90,18 +90,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3337/</guid>
       <pubDate>Thu, 15 Oct 2026 10:05:02 -0400</pubDate>
       <description>We invite you to submit a paper or a book review to the journal Theoretical and Applied Linguistics@ro, edited by the Department of Linguistics of the Faculty of Letters (University of Bucharest) in collaboration with Bucharest University Press. TAL@ro is designed as a comprehensive and dynamic platform aimed at sparking debates and facilitating dialogue among scholars in various linguistic disciplines (e.g. phonetics, morphology, syntax, lexicology, semantics, pragmatics, sociolinguistics, etc.</description>
-    </item>
-    <item>
-      <title>[WikiCFP — Linguistics] MDTT 2027</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634&amp;copyownerid=320</link>
-      <guid isPermaLink="false">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634&amp;copyownerid=320</guid>
-      <description>MDTT 2027 | 6th International Conference on Multilingual Digital Terminology Today</description>
-    </item>
-    <item>
-      <title>[WikiCFP — Linguistics] NLP4CALL 2026</title>
-      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</link>
-      <guid isPermaLink="false">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</guid>
-      <description>NLP4CALL 2026 | workshop on Natural Language Processing for Computer-Assisted Language Learning</description>
     </item>
   </channel>
 </rss>
