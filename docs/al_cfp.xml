@@ -5,8 +5,29 @@
     <link>https://linguistlist.org/</link>
     <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:11:32 +0000</lastBuildDate>
     <generator>al_cfp_crawler.py</generator>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: 14th Southern African Microlinguistics Workshop</title>
+      <link>https://linguistlist.org/issues/37/3691/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3691/</guid>
+      <pubDate>Mon, 09 Nov 2026 10:05:02 -0500</pubDate>
+      <description>The Department of General Linguistics at Stellenbosch University is proud to be hosting the 14th Southern African Microlinguistics Workshop (SAMWOP-14) from Wednesday 2nd December to Friday 4th December, 2026. The programme for SAMWOP-14 is now available on the workshop website: https://sites.google.com/view/samwop-14/programme The programme comprises 27 papers over three days, with no parallel sessions. Papers address the phonetics, phonology, morphology, syntax, semantics and pragmatics</description>
+    </item>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: International Workshop - Interactional Functions of Syntax, Syntactic Functions of Interaction</title>
+      <link>https://linguistlist.org/issues/37/3690/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3690/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:05:02 -0500</pubDate>
+      <description>A growing body of research across linguistic theory, conversation analysis, interactional linguistics, and usage-based approaches converges on a central insight: syntax and interaction are deeply intertwined and mutually constitutive. On the one hand, interaction provides the primary environment in which syntax is acquired, shaped, and made meaningful. Studies in language acquisition have shown that social interaction is a necessary condition for linguistic development (Ochs and Schieffelin 1983</description>
+    </item>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: Language in Healthcare: Second Language Teaching, Assessment and Learning Resources for Healthcare Professionals and Students in Nordic Vocational and Higher Education</title>
+      <link>https://linguistlist.org/issues/37/3688/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3688/</guid>
+      <pubDate>Mon, 09 Nov 2026 09:05:01 -0500</pubDate>
+      <description>This international Nordic conference will address how specialized language learning can improve workforce integration, patient safety and care quality across Nordic healthcare systems. With a particular focus on immigrant healthcare professionals and students in Nordic countries, the event will examine evidence-based teaching strategies, course designs, assessment and new technology (including GenAI) to enhance language competence that matters in the workplace. The Nordic countries face growi</description>
+    </item>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: 9th Second-Language Learning and Disabilities International Conference</title>
       <link>https://linguistlist.org/issues/37/3647/</link>
@@ -20,13 +41,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3630/</guid>
       <pubDate>Wed, 04 Nov 2026 06:05:02 -0500</pubDate>
       <description>The research project Variation in English Worldwide (ViEW), its host research group, Language Variation and Textual Categorization (LVTC), and the research group Corpus-based Approaches to Language Variation (CAVA) are pleased to announce that the 5th Gibraltar International Conference: Linguistic, Literary and Cultural Perspectives (GIC5) will take place on 15-16 April 2027 at the University of the Balearic Islands (Sa Riera Building, Palma de Mallorca). The Gibraltar International Conferenc</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: 33rd Annual Graduate Linguistics, Applied Linguistics, and TESOL Symposium</title>
-      <link>https://linguistlist.org/issues/37/3618/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3618/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:05:02 -0500</pubDate>
-      <description>The Call for Papers for the 33rd Annual Graduate Linguistics, Applied Linguistics, and TESOL Symposium at ASU is now open! The symposium will be held on February 20, 2027, featuring Dr. Paula Winke from Michigan State University as our plenary speaker. We invite submissions from all subfields of Linguistics, Applied Linguistics, and TESOL. We also welcome undergraduate students to submit proposals for our Undergraduate Poster Session. Please use the following link to submit your abstra</description>
     </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Data - &quot;Special Issue: Natural Language Processing in the Era of Big Data&quot; (Jrnl)</title>
@@ -83,6 +97,18 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3337/</guid>
       <pubDate>Thu, 15 Oct 2026 10:05:02 -0400</pubDate>
       <description>We invite you to submit a paper or a book review to the journal Theoretical and Applied Linguistics@ro, edited by the Department of Linguistics of the Faculty of Letters (University of Bucharest) in collaboration with Bucharest University Press. TAL@ro is designed as a comprehensive and dynamic platform aimed at sparking debates and facilitating dialogue among scholars in various linguistic disciplines (e.g. phonetics, morphology, syntax, lexicology, semantics, pragmatics, sociolinguistics, etc.</description>
+    </item>
+    <item>
+      <title>[WikiCFP — Linguistics] MDTT 2027</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634&amp;copyownerid=320</link>
+      <guid isPermaLink="false">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=203634&amp;copyownerid=320</guid>
+      <description>MDTT 2027 | 6th International Conference on Multilingual Digital Terminology Today</description>
+    </item>
+    <item>
+      <title>[WikiCFP — Linguistics] NLP4CALL 2026</title>
+      <link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</link>
+      <guid isPermaLink="false">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195230&amp;copyownerid=320</guid>
+      <description>NLP4CALL 2026 | workshop on Natural Language Processing for Computer-Assisted Language Learning</description>
     </item>
   </channel>
 </rss>
