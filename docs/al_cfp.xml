@@ -5,8 +5,15 @@
     <link>https://linguistlist.org/</link>
     <description>Aggregated, filtered feed of calls for papers and conference announcements relevant to applied linguistics, crawled and pulled from LINGUIST List, Ling Alert, WikiCFP and other sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:25:53 +0000</lastBuildDate>
     <generator>al_cfp_crawler.py</generator>
+    <item>
+      <title>[LINGUIST List — Conference Announcements] Confs: Italian Association of English Studies PhD Day 2026</title>
+      <link>https://linguistlist.org/issues/37/3713/</link>
+      <guid isPermaLink="false">https://linguistlist.org/issues/37/3713/</guid>
+      <pubDate>Tue, 10 Nov 2026 05:05:02 -0500</pubDate>
+      <description>The AIA (Italian Association of English Studies) PhD Day 2026 will take place at the University of Cagliari, both in person and online, on Friday 27th November. Designed to enhance the specialist training of doctoral candidates and early-career researchers, the AIA PhD Days offer a valuable forum for methodological discussion and reflection across the three main areas of English Studies: Linguistics and Translation Studies, Literature, and Cultural Studies. Direct engagement with experienced</description>
+    </item>
     <item>
       <title>[LINGUIST List — Conference Announcements] Confs: 14th Southern African Microlinguistics Workshop</title>
       <link>https://linguistlist.org/issues/37/3691/</link>
@@ -27,20 +34,6 @@
       <guid isPermaLink="false">https://linguistlist.org/issues/37/3688/</guid>
       <pubDate>Mon, 09 Nov 2026 09:05:01 -0500</pubDate>
       <description>This international Nordic conference will address how specialized language learning can improve workforce integration, patient safety and care quality across Nordic healthcare systems. With a particular focus on immigrant healthcare professionals and students in Nordic countries, the event will examine evidence-based teaching strategies, course designs, assessment and new technology (including GenAI) to enhance language competence that matters in the workplace. The Nordic countries face growi</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: 9th Second-Language Learning and Disabilities International Conference</title>
-      <link>https://linguistlist.org/issues/37/3647/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3647/</guid>
-      <pubDate>Thu, 05 Nov 2026 09:05:02 -0500</pubDate>
-      <description>Join us for the 9th Second-Language Learning and Disabilities Conference, an online event dedicated to promoting inclusion and diversity in world language education. This year&#x27;s conference invites educators, researchers, and practitioners to explore how we can create learning environments that recognize learner variability, challenge ableism and other forms of exclusion, and support meaningful participation for all students. We welcome proposals that share innovative pedagogical approaches,</description>
-    </item>
-    <item>
-      <title>[LINGUIST List — Conference Announcements] Confs: 5th Gibraltar International Conference</title>
-      <link>https://linguistlist.org/issues/37/3630/</link>
-      <guid isPermaLink="false">https://linguistlist.org/issues/37/3630/</guid>
-      <pubDate>Wed, 04 Nov 2026 06:05:02 -0500</pubDate>
-      <description>The research project Variation in English Worldwide (ViEW), its host research group, Language Variation and Textual Categorization (LVTC), and the research group Corpus-based Approaches to Language Variation (CAVA) are pleased to announce that the 5th Gibraltar International Conference: Linguistic, Literary and Cultural Perspectives (GIC5) will take place on 15-16 April 2027 at the University of the Balearic Islands (Sa Riera Building, Palma de Mallorca). The Gibraltar International Conferenc</description>
     </item>
     <item>
       <title>[LINGUIST List — Calls for Papers] Calls: Data - &quot;Special Issue: Natural Language Processing in the Era of Big Data&quot; (Jrnl)</title>
